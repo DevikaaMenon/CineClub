@@ -1,2 +1,2 @@
-# CineClub-
+# CineClub
 Movie Review System
