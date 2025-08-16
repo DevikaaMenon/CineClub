@@ -1,6 +1,6 @@
 CineClub
 
-A **Movie Rating and Review System** inspired by Letterboxd, built with **PHP**.  
+A simple **Movie Rating and Review System** inspired by Letterboxd, built with **PHP**.  
 
 Users can discover movies, leave reviews, rate them, create watchlists, and interact with other members.  
 Admins can manage movies and moderate content.  
